@@ -14,7 +14,7 @@ When all is ready, click on this button in Visual Studio Code to execute the fil
 
 Or you can open the Command Prompt, type ```cd (path of the folder where is the files)``` and later ```python discordchatbot.py```, and the code will be running.
 
-Invite your bot to your Discord server and type ```(prefix that you choose) (anything)```.
+Invite your bot to your Discord server and type ```(prefix that you choose)chatbot (anything)```.
 Example:
 
 ![image](https://user-images.githubusercontent.com/75279122/118417786-4b91a180-b67b-11eb-94ad-8c2156778651.png)
@@ -37,7 +37,7 @@ Cuando todo esté listo, da click en este botón en Visual Studio Code para ejec
 
 O puedes abrir el Símbolo del sistema y escribir ```cd (ruta en la que está la carpeta con los archivos``` y luego ```python discordchatbot.py``` y el código se empezará a ejecutar.
 
-Invita tu bot a tu servidor de Discord y escribe ```(prefijo que escogiste) (cualquier cosa)```.
+Invita tu bot a tu servidor de Discord y escribe ```(prefijo que escogiste)chatbot (cualquier cosa)```.
 Ejemplo:
 
 ![image](https://user-images.githubusercontent.com/75279122/118417786-4b91a180-b67b-11eb-94ad-8c2156778651.png)
