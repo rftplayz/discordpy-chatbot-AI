@@ -3,6 +3,8 @@ import discord
 from discord.ext import commands
 import wikipedia,os
 from chatbot import Chat, register_call
+
+# You can put any prefix
 prefix = "the prefix that you want"
 
 bot = commands.Bot(command_prefix = prefix)
