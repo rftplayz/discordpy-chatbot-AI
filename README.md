@@ -6,7 +6,9 @@ An Artificial Intelligence (AI) chatbot for discord.py
 
 If you don't have Python installed, download it here: https://python.org. Make sure to check the "Add Python to PATH" option.
 
-Run the Command Prompt (cmd) as administrator, then type ```py -3.8 -m pip install discord```, ```py -3.8 -m pip install wikipedia```, ```py -3.8 -m pip install chatbotai```. After this, **download** the repository, open the file called "discordchatbot.py", and customize the file as you like it. There's some comments to guide you.
+Note: If you have Windows 7, Python 3.9 will not install. Use Python 3.8 instead and replace the "-3.9" to "-3.8"
+
+Run the Command Prompt (cmd) as administrator, then type ```py -3.9 -m pip install discord```, ```py -3.9 -m pip install wikipedia```, ```py -3.9 -m pip install chatbotai```. After this, **download** the repository, open the file called "discordchatbot.py", and customize the file as you like it. There's some comments to guide you.
 
 When all is ready, click on this button in Visual Studio Code to execute the file
 
@@ -29,7 +31,9 @@ Notes: Maybe the bot reply with random things.
 
 Si no tienes Python instalado, descárgalo aquí: https://python.org. Asegúrate de marcar la opción de "Add Python to PATH"
 
-Abre el Símbolo del sistema (cmd) como administrador, después escribe ```py -3.8 pip install discord```, ```py -3.8 -m pip install wikipedia```, ```py -3.8 -m pip install chatbotai```. Después de esto, **descarga** o **clona** este repositorio, abre el archivo llamado "discordchatbot.py", y personaliza el archivo a tu gusto. Hay algunos comentarios (en inglés jaja) para guiarte. El bot está en inglés, por lo que si quieres entender todo tendrás que estudiar un poco (?).
+Nota: Si tienes Windows 7, Python 3.9 no se instalará. Usa Python 3.8 en su lugar y reemplaza el "-3.9" por "-3.8"
+
+Abre el Símbolo del sistema (cmd) como administrador, después escribe ```py -3.9 pip install discord```, ```py -3.9 -m pip install wikipedia```, ```py -3.9 -m pip install chatbotai```. Después de esto, **descarga** o **clona** este repositorio, abre el archivo llamado "discordchatbot.py", y personaliza el archivo a tu gusto. Hay algunos comentarios (en inglés jaja) para guiarte. El bot está en inglés, por lo que si quieres entender todo tendrás que estudiar un poco (?).
 
 Cuando todo esté listo, da click en este botón en Visual Studio Code para ejecutar el archivo
 
