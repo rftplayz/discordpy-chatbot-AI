@@ -1,4 +1,3 @@
-#First we import some functions
 import discord
 from discord.ext import commands
 import wikipedia,os
